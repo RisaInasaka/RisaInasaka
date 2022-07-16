@@ -2,8 +2,8 @@
 
 ## Stats
 
-![](https://raw.githubusercontent.com/RisaInasaka/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/RisaInasaka/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/RisaInasaka/Github-stats/raw/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/RisaInasaka/Github-stats/raw/master/generated/languages.svg#gh-dark-mode-only)
 
 ## Security notice
 
